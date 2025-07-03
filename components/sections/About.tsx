@@ -1,6 +1,5 @@
 import Image from "next/image";
 import { Card } from "@/components/ui/card";
-import { Separator } from "@/components/ui/separator";
 
 export function About() {
   return (
@@ -65,8 +64,8 @@ export function About() {
                 Τι είναι το I Ching;
               </h4>
               <p className="text-foreground/80">
-                Το I Ching, γνωστό ως "Βιβλίο των Αλλαγών", είναι ένα αρχαίο κινέζικο 
-                κείμενο που εστιάζει στην ισορροπία και την "ελλειπτική κίνηση της ζωής". 
+                Το I Ching, γνωστό ως &ldquo;Βιβλίο των Αλλαγών&rdquo;, είναι ένα αρχαίο κινέζικο 
+                κείμενο που εστιάζει στην ισορροπία και την &ldquo;ελλειπτική κίνηση της ζωής&rdquo;. 
                 Διδάσκει πώς όλα στο σύμπαν είναι αλληλένδετα και σε συνεχή κίνηση.
               </p>
             </Card>

@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { CircleIcon } from "@/components/ui/CircleIcon";
-import { MapPin, Phone, Mail, Clock, Facebook, Instagram, Linkedin } from "lucide-react";
+import { MapPin, Phone, Mail, Clock, Facebook, Instagram } from "lucide-react";
 import { Separator } from "@/components/ui/separator";
 import { 
   PHONE, 
@@ -10,7 +10,6 @@ import {
   FACEBOOK_URL, 
   INSTAGRAM_URL, 
   TIKTOK_URL,
-  START_YEAR,
   NAVIGATION 
 } from "@/lib/general";
 

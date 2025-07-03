@@ -2,7 +2,6 @@ import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { Button } from "@/components/ui/button";
 import { Download, FileText } from "lucide-react";
-import Link from "next/link";
 
 export default function ResumePage() {
   return (
