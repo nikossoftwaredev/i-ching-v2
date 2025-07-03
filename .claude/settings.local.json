@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:ichingbalance.gr)",
+      "Bash(mkdir:*)",
+      "Bash(pnpm dlx shadcn@latest add:*)",
+      "Bash(pnpm install:*)",
+      "Bash(pnpm dev:*)",
+      "Bash(rm:*)"
+    ],
+    "deny": []
+  }
+}
